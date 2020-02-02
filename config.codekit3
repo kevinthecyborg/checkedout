@@ -2261,6 +2261,14 @@
 		"oAP": "/blog/blog-post.html",
 		"oF": 0
 		},
+	"/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/CNAME",
+		"oF": 0
+		},
 	"/docs/alerts.html": {
 		"cB": 0,
 		"ft": 8192,

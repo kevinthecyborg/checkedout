@@ -366,6 +366,17 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
+	"/assets/img/favicon/favicon.png": {
+		"ft": 32768,
+		"iS": 602,
+		"oA": 0,
+		"oAP": "/assets/img/favicon/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/img/icons/social/facebook.svg": {
 		"ft": 2097152,
 		"miP": 0,
